@@ -1,5 +1,9 @@
 # Chess-Knights-swap
-Swap Knights on chessboard
+## Swap Knights on chessboard
+
+Two sets of three chessboard knights are shown below. What is the smallest number of moves to switch the places of the two sets of three knights?
+
+At the end, the three blue knights should be on the bottom, while the three red knights should be on the top, as shown below.
 
 ## Initial state of the chessboard
 - B for blue knights
